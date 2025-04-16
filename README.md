@@ -38,6 +38,8 @@ All fluxes are expressed in W/m² along the satellite's nadir-facing surface.
 
 ![Captura](IRRADIANCIA_POR_ALBEDO.jpeg)
 
+![Captura](IRRADIANCIA_SOLAR_DIRECTA.jpeg)
+
 
 ## ▶️ How to Run
 
