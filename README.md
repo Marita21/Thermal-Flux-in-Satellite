@@ -34,6 +34,9 @@ The script generates three plots:
 
 All fluxes are expressed in W/m² along the satellite's nadir-facing surface.
 
+![Captura](IRRADIANCIA IR.jpeg)
+
+
 ## ▶️ How to Run
 
 1. Install dependencies:
