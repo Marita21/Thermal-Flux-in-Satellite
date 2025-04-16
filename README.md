@@ -34,12 +34,15 @@ The script generates three plots:
 
 All fluxes are expressed in W/m² along the satellite's nadir-facing surface.
 
-![Captura](IRRADIANCIA_IR.jpeg)
+
 
 <p align="center">
   <img src="IRRADIANCIA_IR.jpeg" alt="Captura de irradiancia" width="500">
 </p>
 
+<p align="center">
+  <img src="IRRADIANCIA_POR_ALBEDO.jpeg" alt="IRRADIANCIA_POR_ALBEDO" width="500">
+</p>
 ![Captura](IRRADIANCIA_POR_ALBEDO.jpeg)
 
 ![Captura](IRRADIANCIA_SOLAR_DIRECTA.jpeg)
