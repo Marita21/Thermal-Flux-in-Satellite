@@ -41,4 +41,4 @@ All fluxes are expressed in W/m² along the satellite's nadir-facing surface.
    pip install skyfield numpy matplotlib
 
 
-   ![Captura de pantalla](IRRADIANCIA IR.JPEG)
+   ![Captura de pantalla](IRRADIANCIA IR.jpeg)
